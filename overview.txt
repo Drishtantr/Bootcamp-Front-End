@@ -1,0 +1,22 @@
+TEAM: TechJunkies
+PROJECT BASED ON: BLOCKCHAIN
+PLATFORM: ETHEREUM, Solidity, Web3j, Metamask, Ganache, React, Node, Android studio,
+
+MEMBERS: 
+APURBA POKHAREL
+ASMIT BHANTANA
+DRISHTANT REGMI
+KRISHNA NEPALI
+
+OVERVIEW OF THE PROJECT
+	Developed within 24 hours, our blockchain based application is a success for everyone in itself regardless of the position we take.
+This this age where technolgies like AI and Machine Learning is flourishing, Blockchain, despite all its promising outcomes, lacks some pace
+behind them. In our application, the user interacts with the system as a phone based app(developed using java) and the admin interacts as a 
+web based app. The main concept of our app is to create a LFC (Life Coin) like reward for people's involvement in voluntary activities. An 
+organization like SOS can use the app to collect volunteers from the locality and later reward them with LFC which equivalents to a certain
+real life amount and symbolises a good cause. Due to the use of blockchain concept, the overall process is totally transparent, secure and trustable.
+
+TECHNICAL DETAILS
+	The Smart contract was written in Solidity and was deployed in the local blockchain via Remix IDE. The test nodes used for the testing of our ERC token implemented 
+functions (transfer(),balanceOf(),totalSupply()) were locally created using the Ganache platform and these nodes were then imported in the MeteMask to support 
+the functions defined in our MyCoin implementation of ERC20 token. Web3 is a JS library used to access the nodes via node.js. 
